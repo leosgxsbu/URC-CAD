@@ -4,18 +4,19 @@ This repository contains the official CAD files for the **Stony Brook Robotics T
 
 ## How To Access
 
-1. Clone repository onto your computer.
+1. Install Git on your computer: https://git-scm.com/install/
+2. Clone repository onto your computer.
      
    You can do this by opening a terminal in the folder you wish to work in and running the following line
    ```bash
    git clone https://github.com/sbroboticsteam/URC-CAD
    ```
-2. Install git large file system inside your repository
+3. Install git large file system inside your repository
     
     ```bash
      git lfs install
     ```
-3. Now you can access the CAD in Solidworks
+4. Now you can access the CAD in Solidworks
 
 ## WHAT TO DO BEFORE EACH CAD SESSION 
 1. Open a terminal in the URC-CAD repository folder
